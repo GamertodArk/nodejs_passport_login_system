@@ -5,7 +5,7 @@ This is an application that has a login and registretion system using Passport a
 
 Clone this repository
 ```bash
-git clone 
+git clone git@github.com:GamertodArk/nodejs_passport_login_system.git
 ```
 
 Install the packages
